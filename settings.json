@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "texkirat.aternos.me",
-    "port": 32031,
+    "ip": "texkirat.aternos.me:32031",
+    "port" 32031,
     "version": "",
     "try-creative": false
   },
