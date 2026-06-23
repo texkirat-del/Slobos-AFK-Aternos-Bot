@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Hands6700",
+    "username": "Hands6700"
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "texkirat.aternos.me",
+    "ip": "texkirat.aternos.me"
     "port" 32031,
     "version": "",
     "try-creative": false
