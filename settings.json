@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Hands6700",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "texkirat.aternos.me:32031",
+    "ip": "texkirat.aternos.me",
     "port" 32031,
     "version": "",
     "try-creative": false
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": True, 
+      "enabled": true, 
       "sneak": true
     },
     "chat-messages": {
